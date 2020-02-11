@@ -6,7 +6,7 @@ gnxx
 dssddcdscsc
 sd
 <<<<<<< HEAD
-cc
+
 ewg
 ccvcvvvcvxvx
 <<<<<<< HEAD
