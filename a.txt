@@ -10,5 +10,4 @@ cc
 ewg
 =======
 ccvcvvvcvxvx
-c
-cddcdc
+
