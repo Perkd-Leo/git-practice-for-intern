@@ -5,5 +5,10 @@ ewegweg
 gnxx
 dssddcdscsc
 sd
+<<<<<<< HEAD
 cc
 ewg
+=======
+ccvcvvvcvxvx
+c
+cddcdc
