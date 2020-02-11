@@ -1,4 +1,7 @@
 abcdefg
+<<<<<<< HEAD
 dssddcdscs
 ewegweg
-gnf
+gnxx
+dssddcdscsc
+
