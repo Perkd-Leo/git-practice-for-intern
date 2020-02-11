@@ -11,10 +11,10 @@ ewg
 ccvcvvvcvxvx
 <<<<<<< HEAD
 
-=======
+
 c
 cddcdc
- v v vc c
+ v v vc
 cx cx 
 cx xcx
 333
