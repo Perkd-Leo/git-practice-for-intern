@@ -8,6 +8,12 @@ sd
 <<<<<<< HEAD
 cc
 ewg
-=======
 ccvcvvvcvxvx
+<<<<<<< HEAD
 
+=======
+c
+cddcdc
+ v v vc c
+cx cx 
+cx xcx
