@@ -7,10 +7,7 @@ sd
 
 ewg
 ccvcvvvcvxvx
-ddddddd
-
-
-
+ddd
 c
 cddcdc
  v v vc
