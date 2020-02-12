@@ -9,13 +9,11 @@ sd
 
 ewg
 ccvcvvvcvxvx
-<<<<<<< HEAD
+<<<<<<<
 
 
 c
-
- v v vc
-cx cx 
+cccccc
 ccvcvvvcvxvx
 333
 vfvsv
